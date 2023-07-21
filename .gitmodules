@@ -1,0 +1,6 @@
+[submodule "gold_back"]
+	path = gold_back
+	url = https://github.com/NFDGIT/gold_back.git
+[submodule "gold_front"]
+	path = gold_front
+	url = https://github.com/NFDGIT/gold_front.git
